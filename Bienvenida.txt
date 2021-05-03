@@ -1,0 +1,44 @@
+<html>
+  <head>
+  <title>MI BIOGRAFIA</title> 
+  <style>   
+
+  div {
+  width: 100%;
+  border: black 3px solid;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+  font-size:20px; 
+  color:black; 
+  padding:10px; 
+  border: 10px solid black;
+
+  h2{color:black;}
+  </style>  
+  </head> 
+  <body BACKGROUND="fondo.jpg"> 
+
+    <br><b><font size="7"><center>BIENVENIDOS</font></center><font face="Rockwell"></font></b></br>
+ 
+    <br><center> </center>
+<p>Mi nombre Roger Audiel Zamudio Manriquez naci en el Estado de Mexico, el 17 de Mayo de 1995.
+Desde la niñez eh vivido en el Estado de Mexico en la colonia Cegor. Estudie en la primaria Claudio Cortez Castro, 
+la secundaria la estudie en la Jacinto Uc de los Santos Canek, el bachillerato estuve en dos planteles el primero fue en el Colegio de Bachilleres del
+Estado de Mexico (COBAEM 2) y en el plantel Cetis 54 "Guadalupe Victoria", 
+en la actualidad estoy cursando la universidad en el Tecnologico de Estudios Superiores de Ecatepec en la carrera de Ingenieria en informatica. Me gusta la musica
+de genero banda, reggeaton, no tengo algun deporte favorito, me gusta coleccionar carros de Micro Machines, tengo 3 perros llamados Guiby que es un chihuahua de 
+8 años , un maltes de 2 Jordan y un pug llamado Bruno , en la primaria conoci a mi amigo Daniel Custodio  en la actualidad aun tengo contacto con el ya que se fue a
+vivir a Queretero y ya tiene un hijo, cuando tenia 10 años me iba a jugar maquinitas a una tienda a una calle de donde vivo y ahi conoci a mi amigo Pablo Juarez en la 
+actualidad el ya tiene 3 hijos aun sigo en contacto con el, en la prepa conoci a Janeth mi novia,ella actualmente esta estudiando conmigo en el tecnologico , 
+Arantxa Rosas ella actalmente ya termino su carrera de Ing. Ambiental y a , en el Tese conoci a mis actuales amigos <b><a href="http://www.google.com/">MarielaRojo</a> </b> y <b><a href="http://www.google.com/">Daniel Guadarrama</a> </b>.
+
+Me considero una persona sociable,alegre, a veces suelo ser desesperado. </br> 
+
+    
+    <font face="arial"><font size="5">
+ 
+  </br>
+  </body>  
+  </html>

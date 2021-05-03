@@ -1,0 +1,25 @@
+<html>
+  <head>
+  <title>Mi Curriculum</title> 
+  <style>   
+
+  div {
+  width: 100%;
+  border: black 3px solid;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+  font-size:50px; 
+  color:black; 
+  padding:10px; 
+  border: 10px solid black;
+
+  h2{color:black;}
+  </style>  
+  </head> 
+  <body BACKGROUND="fondo.jpg"> 
+
+  </br>
+  </body>  
+  </html>

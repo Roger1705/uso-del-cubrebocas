@@ -1,0 +1,26 @@
+<html>
+  <head>
+  <title>MI BIOGRAFIA</title> 
+  <style>   
+
+  div {
+  width: 100%;
+  border: black 3px solid;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+  font-size:20px; 
+  color:black; 
+  padding:10px; 
+  border: 10px solid black;
+
+  h2{color:black;}
+  </style>  
+  </head> 
+  <body BACKGROUND="fondo.jpg"> 
+<td background="WhatsApp Image 2021-04-17 at 10.00.23 PM (1).jpeg">
+  
+  </br>
+  </body>  
+  </html>

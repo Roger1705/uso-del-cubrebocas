@@ -1,0 +1,122 @@
+<html>
+  <head>
+  <title>MI BIOGRAFIA</title> 
+  <style>   
+
+  div {
+  width: 100%;
+  border: black 3px solid;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+  font-size:20px; 
+  color:black; 
+  padding:10px; 
+  border: 10px solid black;
+
+  h2{color:black;}
+  </style>  
+  </head> 
+  <body BACKGROUND="fondo1.jpg"> 
+
+    <br><b><u><font size="7"><center>MI BIOGRAFIA</font></center><font face="Rockwell"></font></b></u></br>
+    <br><center><img src="YO.jpg" width="1300" height="400" border=6 vspace=20 /> </center></br> 
+    <hr aling= center whith=40 color= black size=10> 
+    <font face="arial"><font size="5"><b><a href="http://www.google.com/">Tu cuenta Google</a> </b></font>
+    <marquee direction=up><p align="right"><img src="redes.jpg" width="250" height="80"  border=6/></p></marquee> 
+
+  <br>  
+
+    <br><b><font size="7"><center>Concepto...</font></center><font face="Rockwell"></font></b></br>
+    <p aling="left"><b><font size="5"><left>
+    <font face="arial"><blockquote> </i>
+
+   La memoria es uno de los componentes fundamentales para el correcto funcionamiento de la PC,
+   permite que la computadora pueda arrancar, se procesen los datos, se ejecuten las instrucciones para los distintos programas, en las MEMORIAS, CHIPS se    almacenan momentáneamente los datos que nos permiten llevar a cabo nuestro trabajo. 
+    </p></b></font></center></blockquote>
+ 
+<br><hr aling= center whith=40 color= black size=10></br>
+    <br><b><font size="7"><center>Memoria central o principal</font></center><font face="arial"></font></b></br>
+
+    <b><br><blockquote><font face="arial">En este nivel residen los programas y los datos. La CPU lee y escribe datos en él aunque con menos frecuencia que en los niveles anteriores. Tiene un tiempo de acceso relativamente rápido y gran capacidad.</p></font></b></blockquote></br>
+
+
+<br><hr aling= center whith=40 color= black size=10></br>
+    <br><b><font size="7"><center>Registros de procesador</font></center><font face="arial"></font></b></br>
+
+    <b><br><blockquote><font face="arial">Estos registros interaccionan continuamente con la CPU (porque forman parte de ella). Los registros tienen un tiempo de acceso muy pequeño y una capacidad mínima, normalmente igual a la palabra del procesador (1 a 8 bytes).</p></font></b></blockquote></br>
+
+<br><hr aling= center whith=40 color= black size=10></br>
+    <br><b><font size="7"><center>Registros intermedios</font></center><font face="arial"></font></b></br>
+
+    <b><br><blockquote><font face="arial">Constituyen un paso intermedio entre el procesador y la memoria, tienen un tiempo de acceso muy breve y muy poca capacidad.</p></font></b></blockquote></br>
+
+<br><hr aling= center whith=40 color= black size=10></br>
+    <br><b><font size="7"><center>Extensiones de memoria central</font></center><font face="arial"></font></b></br>
+
+    <b><br><blockquote><font face="arial">Son memorias de la misma naturaleza que la memoria central que amplían su capacidad de forma modular. 
+    El tiempo de similar, a lo sumo un poco mayor,
+    al de la memoria central y su capacidad puede ser algunas veces mayor.</p></font></b></blockquote></br>
+
+
+
+    <br><div class="entero center reset pattern" style="margin-top:-10px;">
+    <div class="tresCuartos reset">					
+    <div class="flexslider">
+    <ul class="slides" style="list-style:none;"></br>
+  <marquee><br>		
+    <img src="memoriacentral.jpg"width="500" height="300" border=6/></a>
+    <img src="registro.png"width="500" height="300" border=6/></a>
+    <img src="intermedio.png" width="500" height="300" border=6/></a>
+    <img src="extencion.jpg"width="500" height="300" border=6/></a>
+	</ul>
+	</div>
+	</div>
+	</div>
+  </marquee></br>
+
+    
+ 
+    <br><hr aling= center whith=40 color= black size=10>
+    <br><b><font size="7"><center>Memoria RAM (Memoria de acceso aleatorio) (memoria principal)</font></center><font face="arial"></font></b></br>
+
+    <br><blockquote><font face="arial"><b><p><img src="memoria-ram.jpg" align="right" width="400" height="400" border="9">La memoria RAM es volátil, esto es, cuando se corta la alimentación eléctrica se pierde toda la información que estuviera almacenada en este tipo de memoria. 
+    La comunicación de la RAM con la CPU se realiza a través del Bus de Direcciones y el Bus de Datos.
+
+    La memoria RAM se utiliza tanto para almacenar temporalmente programas y datos como para guardar los resultados intermedios que se están manipulando durante un proceso.
+   </p>
+    <ul type= circle>
+    <p><li>Memoria Baja: Es el área de memoria del sistema. Ocupa las primeras direcciones de la memoria convencional y está ocupada por las tablas de los vectores de las interrupciones, las rutinas de la ROM-BIOS y la parte residente del sistema operativo
+    <p><li>Memoria Alta: También se denomina área de memoria del usuario, es la zona en la que se sitúan los códigos de los programas ejecutables y los datos que éstos manejan en las diferentes aplicaciones que la computadora ejecuta.
+    <p><li>Memoria extendida: Se utiliza en computadoras que poseen una CPU que puede direccionar una gran cantidad de memoria, más de 1 megabyte, asociada a sistemas operativos que permiten gestionarla correctamente, es decir, los sistemas operativos multitareas o multiusuarios como UNIX, WINDOWS, sistemas operativos LAN, etc.
+    </br></font></b></blockquote>
+
+    <br><hr aling= center whith=40 color= black size=10>
+    <br><b><font size="7"><center>Memoria Rom</font></center><font face="arial"></font></b></br>
+
+    <br><blockquote><font face="arial"><b><p><img src="memoria-rom.jpg" align="left" width="400" height="300" border="9">La memoria ROM viene incorporada a la motherboard y es utilizada por la PC para dar inicio a la BIOS, lo cual es básicamente un programa que posee las instrucciones adecuadas para guiar a la computadora durante el arranque.
+
+    La diferencia fundamental que existe entre la memoria RAM y la ROM radica en la velocidad, ya que la ROM al tratarse de un tipo de memorial secuencial necesita recorrer todos los datos hasta hallar la información que está buscando, mientras que la RAM trabaja de manera aleatoria, lo que hace que acceda a la información específica de manera directa.
+   </p></font></b></blockquote></br>
+
+    <br><hr aling= center whith=40 color= black size=10>
+    <br><b><font size="7"><center>Memoria Caché</font></center><font face="arial"></font></b></br>
+
+    <br><blockquote><font face="arial"><b><p><img src="cache.jpg" align="right" width="580" height="270"border="9" >Tanto el procesador como el disco rígido  poseen su propia memoria caché, que básicamente resguarda distintas direcciones que son utilizadas por la memoria RAM para realizar diferentes funciones, tales como ejecutar programas instalados en la PC.
+    El proceso que realiza la memoria caché es guardar las ubicaciones en el disco que ocupan los programas que han sido ejecutados, para que cuando vuelvan a ser iniciados el acceso a la aplicación logre ser más rápido</p>
+    <ul type= circle>
+    <p><li>El caché L1 : que se encuentra en el interior del procesador y funciona a la misma velocidad que éste, y en el cual se guardan instrucciones y datos.
+    <p><li>El caché L2: que suelen ser de dos tipos: interno y externo. El primero se encuentra dentro de la motherboard, mientras que el segundo se halla en el procesador pero de manera externa, lo que lo hace más lento que el caché L1.
+    <p><li>El caché L3: que sólo vienen incorporado a algunos de los microprocesadores más avanzados, lo que resulta en una mayor velocidad de procesos.
+
+    <br><hr aling= center whith=40 color= black size=10>
+    <br><b><font size="7"><center>Memorias de masas o auxiliares</font></center><font face="arial"></font></b></br>
+
+    <br><blockquote><font face="arial"><b><p><img src="auxiliar.jpg" align="right" width="580" height="270"border="9" >Son memorias que residen en dispositivos externos al ordenador, en ellas se archivan programas y datos para su uso posterior. También se usan estas memorias para apoyo de la memoria central en caso de que ésta sea insuficiente (memoria virtual). 
+    Estas memorias suelen tener gran capacidad pero pueden llegar a tener un tiempo de acceso muy lento. 
+    Dentro de ellas también se pueden establecer varios niveles de jerarquía.</p>
+</br></font></b></blockquote>
+  </br>
+  </body>  
+  </html>
